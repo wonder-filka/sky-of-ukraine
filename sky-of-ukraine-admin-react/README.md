@@ -1,18 +1,14 @@
-# Sky of Ukraine Backend
-This backend server is built with Express.js, MySQL, and TypeORM to support the project and report management website. The server includes migrations and seeds for easy database setup.
+# Admin Panel for Sky of Ukraine
+This admin panel is a React-based web application designed for managing projects and reports.
 
-Visit this website: 
- [https://skyua.org](https://skyua.org)
+![](./2.png)
 
-![](./1.png)
+- **Tailwind CSS Styling**: The admin panel is styled using Tailwind CSS, providing a clean and responsive user interface.
 
+- **Private Routes**: Secure the application with private routes, ensuring that only authenticated users can access the admin functionality.
 
-## Features
+- **Project Management**: Add, remove, and edit projects easily through the admin panel.
 
-- **Express.js**: The server is built using Express.js, providing a robust and scalable backend architecture.
+- **Report Management**: Similarly, manage reports by adding, removing, and editing them within the admin interface.
 
-- **MySQL Database**: Data is stored in a MySQL database, and TypeORM is used for efficient database interactions.
-
-- **Migrations**: Database migrations are implemented to manage schema changes over time.
-
-- **Seed Data**: Seed data is provided to populate the database with initial values.
+- **Media File Handling**: The panel supports the uploading and saving of media files associated with projects and reports.
