@@ -1,12 +1,6 @@
 # Sky of Ukraine Backend
 This backend server is built with Express.js, MySQL, and TypeORM to support the project and report management website. The server includes migrations and seeds for easy database setup.
 
-Visit this website: 
- [https://skyua.org](https://skyua.org)
-
-![](./1.png)
-
-
 ## Features
 
 - **Express.js**: The server is built using Express.js, providing a robust and scalable backend architecture.
