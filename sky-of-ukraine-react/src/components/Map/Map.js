@@ -36,21 +36,6 @@ export default function Map() {
     }
   }
 
-  useEffect(() => {
-    let kyiv = document.getElementById("kyiv-city");
-    let kyivName = document.getElementById("kyivName");
-    const handleResize = () => {
-      let kyivCoord = kyiv.getBoundingClientRect();
-      kyivName.style.left = kyivCoord.left + "px";
-      kyivName.style.top = kyivCoord.top + "px";
-    };
-    handleResize();
-    window.addEventListener("resize", handleResize);
-    return () => {
-      window.removeEventListener("resize", handleResize);
-    };
-  });
-
 
   useEffect(() => {
     axios.get(process.env.REACT_APP_BACKEND_LINK + `/projects/`).then((response) => {
@@ -72,7 +57,6 @@ export default function Map() {
           <div className="ukraine">
             <img src={Ukraine} alt="ukraine" />
           </div>
-          <div id="kyivName">{t("Kyiv")}</div>
           <SVGMap
             map={Uk}
             onLocationClick={onLocationClick}
