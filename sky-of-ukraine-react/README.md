@@ -12,5 +12,5 @@ Visit this website:
 
 - **Multilingual Support**: Users can choose their preferred language for the site's interface for better content accessibility.
 
-- **Multilingual Support**: Users can choose their preferred language for the site's interface for better content accessibility.
+- **Adaptive Design**: The website is designed to be responsive and adaptive, ensuring a user-friendly experience on various devices, including desktops, tablets, and smartphones.
 
