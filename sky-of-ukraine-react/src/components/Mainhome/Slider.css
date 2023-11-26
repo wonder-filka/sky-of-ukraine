@@ -1,0 +1,98 @@
+@media (max-width: 768px) {
+  .slider-screen {
+    flex-direction: column !important;
+  }
+
+  .card-patner {
+    width: auto !important;
+  }
+
+  .card-patner img {
+    width: 100% !important;
+    height: 30vh !important;
+    border: none !important;
+  }
+  .card-project button {
+    width: 100%;
+  }
+  .card-patner a {
+    width: 100% !important;
+  }
+}
+
+.slider-partners {
+  height: auto;
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.carousel-inner {
+  width: auto;
+}
+
+.carousel-item {
+  height: auto;
+}
+
+.slider-screen {
+  height: 100%;
+  max-width: 70%;
+  display: flex;
+  justify-content: space-around;
+}
+.carousel-control-prev-icon {
+  align-self: center;
+  width: 100%;
+}
+
+.card-patner {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  margin: 1vh 2vh;
+  width: 25vw;
+}
+
+.carousel-indicators {
+  display: none;
+}
+.carousel-indicators button {
+  background-color: #4c94ff !important;
+}
+
+.card-patner h4 {
+  padding: 2vh 0;
+  min-height: 70px;
+}
+
+.card-patner p {
+  flex: 1;
+  align-items: flex-start;
+  text-align: justify;
+  text-indent: 20px;
+  width: 90%;
+}
+
+.card-patner button {
+  padding: 2vh 0;
+}
+
+.card-patner a {
+  font-size: 16px;
+  text-decoration: none;
+  width: 15vw;
+  margin-top: 2vh;
+}
+
+.card-patner img {
+  padding: 1vh;
+  width: 15vw;
+  height: 15vw;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 50%;
+  border: 2px solid #4c94ff;
+  object-fit: contain !important;
+}

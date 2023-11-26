@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+button {
+  font-size: 16px !important;
+}
+
+p {
+  color: #83868b;
+  font-size: 14px;
+}
+
+.btn-req-support {
+  background: transparent;
+  border: 1px solid #4c94ff;
+  color: #4c94ff;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 400;
+  padding: 10px;
+  width: 100%;
+  margin-right: 2vh;
+}
+
+.btn-take-part {
+  background: #4c94ff;
+  border: 1px solid #4c94ff;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 10px;
+  color: #ffd600;
+  width: 100%;
+  margin-left: 2vh;
+}
+
+.open-form {
+  display: block;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+}
+
+.close-form {
+  display: none;
+}
+
+.blur-background {
+  filter: blur(5px);
+}
+.about-us-block {
+flex: 1
+}
+.about-page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.project-admin {
+  background-color: rgb(255, 249, 223);
+  height: auto;
+  width: 100%;
+  margin: 2vh 0;
+  padding: 2vh 2vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  font-size: 16px;
+  border: 1px solid #ffd600;
+  border-radius: 4px;
+}
+
+.admin-btn-group {
+  display: flex;
+  justify-content: center;
+}
+.btn-admin {
+  color: black;
+  background-color: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  font-size: 14px !important;
+padding: 1vh 2vw;
+}
+
+.save-admin {
+  width: 150px;
+}
+
+.edit-project {
+  background-color: rgb(255, 249, 223);
+}
+
+.admin-btn {
+  margin: 0;
+}
+
+.admin_change {
+  color: #4c94ff;
+  padding: 0vh 2vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+.admin_change:hover {
+  color:black;
+}
+
+.project-name {
+  font-weight: 700;
+}
+.projects {
+  margin: 0 auto;
+  width: 80%;
+}
+
+.admin-input {
+  display: flex;
+  margin: 2vh 0;
+}
+
+.ukr {
+  padding: 2vh 1vw;
+}
+
+
+.admin-input-block {
+  /* height: 30px; */
+  width: 100%;
+margin-left: 1vw;
+}
+
+.saved {
+  height: 100px;
+  width: 200px;
+  background-color: #4c94ff;
+  color: aliceblue;
+  font-weight: 700;
+  position: absolute;
+ top:calc(50% - 50px);
+ left: calc(50% - 100px);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+
+@media (max-width: 768px) {
+  .edit-block-admin, .send-img, .admin-btn-group {
+    flex-direction: column;
+
+  }
+
+  .admin_change {
+    margin: 2vh 0;
+  }
+}

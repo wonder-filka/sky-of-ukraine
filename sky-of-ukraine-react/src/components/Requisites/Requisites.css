@@ -1,0 +1,67 @@
+@media (max-width: 768px) {
+  .Requisites {
+    width: 90% !important;
+    max-height: 90vh;
+    overflow-y: scroll;
+  }
+}
+
+.Requisites {
+  background-color: #f5f5f0;
+  padding: 25px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  border-radius: 6px;
+  min-height: 80vh;
+  width: 35vw;
+}
+.requs {
+  padding: 1vh 0vw;
+}
+.requs-title {
+  width: 100%;
+}
+
+.requs-title > svg {
+  margin-left: 4px;
+}
+
+.requs-title:nth-child(1) {
+  font-weight: bold;
+}
+
+.requs-title:nth-child(2) {
+  text-align: right;
+}
+
+.ruqus-second-title {
+  font-size: 16px;
+  margin: 1vh 0;
+}
+
+.reqCol {
+  border: 1px solid #f5f5f0;
+  background-color: #f5f5f0;
+  margin: 1vh 1vw;
+  padding: 2vh 2vw;
+}
+
+.requs-second-title {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.iban svg {
+  cursor: pointer;
+}
+
+.req-btns {
+  display: flex;
+  justify-content: space-around;
+  margin: 2vh 0;
+}
+
+.req-btn {
+  padding: 1vh 1vw;
+  background-color: transparent;
+  border-bottom: 1px solid #83868b !important;
+}

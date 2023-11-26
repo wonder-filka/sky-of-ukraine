@@ -1,0 +1,13 @@
+.social-link {
+  display: flex;
+  height: auto;
+  padding-bottom: 2vh;
+}
+
+.header_links .social-link {
+  justify-content: flex-end;
+}
+
+.social-link-item:nth-child(2) {
+  margin: 0 2vh;
+}

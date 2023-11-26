@@ -1,0 +1,82 @@
+@media (max-width: 768px) {
+  .reqCol,
+  .about-partners img,
+  .img-title {
+    margin: 1vh 0 !important;
+  }
+}
+
+.about-us-block h2,
+.about-us-block h3 {
+  text-align: center;
+}
+
+.about-us-block p {
+  text-indent: 20px;
+}
+
+.about-us-block {
+}
+
+.img-title {
+  width: 100%;
+  height: 30vh;
+  object-fit: cover;
+  margin: 2vh 2vw;
+  border-radius: 4px;
+}
+
+.about-us-block p,
+.about-us-block ul,
+.about-us-block h3 {
+  margin: 2vh 2vw;
+}
+
+.about-us-block ul {
+  list-style: inside;
+  color: #83868b;
+  font-size: 14px;
+}
+
+.about-partners img {
+  height: auto;
+  width: 100%;
+  margin: 2vh 2vw;
+  border-radius: 4px;
+}
+
+.requs {
+  display: flex;
+}
+
+.about-block-center {
+  align-items: center;
+}
+
+.iban {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.requs-title img {
+  height: 1.5vh;
+  width: 1.5vh;
+  margin-left: 1vh;
+}
+
+#iconCopyUAH,
+#iconCopyUSD,
+#iconCopyEUR {
+  cursor: pointer;
+}
+
+.req-btns {
+  display: flex;
+  justify-content: space-around;
+  margin: 2vh 0;
+}
+
+.req-btn {
+  border: none;
+  padding: 1vh 1vw;
+}

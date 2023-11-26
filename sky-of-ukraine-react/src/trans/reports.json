@@ -1,0 +1,95 @@
+{
+  "start": [],
+  "volyn": [],
+  "rivne": [],
+  "zhytomyr": [],
+  "kyiv": [],
+  "chernihiv": [],
+  "sumy": [],
+  "lviv": [],
+  "kharkiv": [],
+  "luhansk": [
+    {
+      "title": "zvit 6 title",
+      "description": "zvit 6 description",
+      "img": "./assets/zvit6.jpg",
+      "img2": "./assets/zvit6_1.jpg",
+      "date": "report data 6",
+      "location": "report data location 6",
+      "linkTo": "https://www.facebook.com/groups/neboukrainu/posts/967115354278034/"
+    }
+  ],
+  "donetsk": [],
+  "dnipropetrovsk": [
+    {
+      "title": "zvit 1 title",
+      "description": "zvit 1 description",
+      "img": "./assets/zvit1_1.jpg",
+      "img2": "./assets/",
+      "date": "report data 1",
+      "location": "report data location 1",
+      "linkTo": "https://www.facebook.com/groups/neboukrainu/posts/969705084019061/"
+    },
+    {
+      "title": "zvit 2 title",
+      "description": "zvit 2 description",
+      "img": "./assets/zvit2.jpg",
+      "img2": "./assets/",
+      "date": "report data 2",
+      "location": "report data location 2",
+      "linkTo": "https://www.facebook.com/groups/neboukrainu/posts/967645974224972/"
+    },
+    {
+      "title": "zvit 3 title",
+      "description": "zvit 3 description",
+      "img": "./assets/zvit3.jpg",
+      "img2": "./assets/zvit3_1.jpg",
+      "date": "report data 3",
+      "location": "report data location 3",
+      "linkTo": "https://www.facebook.com/groups/neboukrainu/posts/804355370554034"
+    },
+    {
+      "title": "zvit 7 title",
+      "description": "zvit 7 description",
+      "img": "./assets/zvit7.jpg",
+      "img2": "./assets/zvit7_1.jpg",
+      "date": "report data 7",
+      "location": "report data location 7",
+      "linkTo": "https://www.facebook.com/groups/neboukrainu/posts/964416884547881/"
+    }
+  ],
+  "poltava": [],
+  "cherkasy": [],
+  "kyiv-city": [],
+  "vinnytsia": [],
+  "khmelnytskyi": [],
+  "ternopil": [],
+  "ivano-frankivsk": [],
+  "zakarpattia": [],
+  "chernivtsi": [],
+  "kirovohrad": [],
+  "mykolaiv": [],
+  "odessa": [],
+  "kherson": [
+    {
+      "title": "zvit 4 title",
+      "description": "zvit 4 description",
+      "img": "./assets/zvit4.jpg",
+      "img2": "./assets/zvit4_1.jpg",
+      "date": "report data 4",
+      "location": "report data location 4",
+      "linkTo": "https://www.facebook.com/groups/neboukrainu/posts/965964951059741/"
+    },
+    {
+      "title": "zvit 5 title",
+      "description": "zvit 5 description",
+      "img": "./assets/zvit5.jpg",
+      "img2": "./assets/zvit5_1.jpg",
+      "date": "report data 5",
+      "location": "report data location 5",
+      "linkTo": "https://www.facebook.com/groups/neboukrainu/posts/965645307758372/"
+    }
+  ],
+  "zaporizhia": [],
+  "crimea": []
+}

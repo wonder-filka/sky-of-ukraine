@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  sky-of-ukraine-admin:
+    image: 
+    container_name: 
+    hostname: 
+    restart: 
+    networks:
+      video_net:
+#    environment:
+#      - ASPNETCORE_ENVIRONMENT=docker
+    healthcheck:
+     test: 
+     interval: 5s
+     timeout: 10s
+     retries: 3
+    ports:
+      - 94:80
+
+
+networks:
+  video_net:
+    driver: 
