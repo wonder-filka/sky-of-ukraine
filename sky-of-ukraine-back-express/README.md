@@ -28,13 +28,13 @@ Before you begin, make sure you have the following software installed on your ma
 npm install
 ```
 
-2. Database Setup:
+2. Database Setup (only first time):
 
 - In **sky-of-ukraine-back/config/config.json**, insert your database password and database name according to your preferences.
 
 - In **sky-of-ukraine-back/app/config/db.config.js**, duplicate the database configuration data.
 
-3. Run the following commands to create the database, run migrations, and seed data:
+3. Run the following commands to create the database, run migrations, and seed data (only first time):
 
 ```bash
 # Create the database
