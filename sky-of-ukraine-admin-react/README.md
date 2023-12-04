@@ -12,3 +12,19 @@ This admin panel is a React-based web application designed for managing projects
 - **Report Management**: Similarly, manage reports by adding, removing, and editing them within the admin interface.
 
 - **Media File Handling**: The panel supports the uploading and saving of media files associated with projects and reports.
+
+## Installation
+
+Provide step-by-step instructions on how to install your project.
+
+1. Install dependencies:
+
+```bash
+npm i 
+```
+
+2. Run the app:
+
+```bash
+npm start
+```

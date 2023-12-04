@@ -1,8 +1,9 @@
 # Sky of Ukraine
+
 Sky of Ukraine is a multi-page website dedicated to projects and reports about activities in various regions of Ukraine
 
-Visit this website: 
- [https://skyua.org](https://skyua.org)
+Visit this website:
+[https://skyua.org](https://skyua.org)
 
 ![](./1.png)
 
@@ -14,16 +15,18 @@ Visit this website:
 
 - **Adaptive Design**: The website is designed to be responsive and adaptive, ensuring a user-friendly experience on various devices, including desktops, tablets, and smartphones.
 
-### Installation
+## Installation
 
 Provide step-by-step instructions on how to install your project.
 
-1. Install dependencies:**
+1. Install dependencies:
+
 ```bash
-npm install --force
+npm i --force
 ```
 
-2. Run the app:**
-    ```bash
-    npm start
-    ```
+2. Run the app:
+
+```bash
+npm start
+```

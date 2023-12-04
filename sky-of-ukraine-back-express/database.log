@@ -9843,3 +9843,20 @@
 [2023-11-26 20:17:35] info: Executed query: SELECT * FROM en
 [2023-11-26 20:17:35] info: Executed query: SELECT * FROM reports
 [2023-11-26 20:17:35] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:47:24] info: Test backend listening on port 80
+[2023-12-04 11:47:58] info: Connected to the database
+[2023-12-04 11:47:58] info: Executed query: SELECT * FROM en
+[2023-12-04 11:47:58] info: Executed query: SELECT * FROM projects
+[2023-12-04 11:49:11] info: Executed query: SELECT * FROM ukr
+[2023-12-04 11:49:13] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:49:13] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:49:17] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:49:18] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:49:19] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:49:28] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:49:28] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:50:16] info: Executed query: SELECT * FROM en
+[2023-12-04 11:50:16] info: Executed query: SELECT * FROM projects
+[2023-12-04 11:50:16] info: Executed query: SELECT * FROM ukr
+[2023-12-04 11:50:21] info: Executed query: SELECT * FROM reports
+[2023-12-04 11:50:21] info: Executed query: SELECT * FROM ukr
