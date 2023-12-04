@@ -14,3 +14,16 @@ Visit this website:
 
 - **Adaptive Design**: The website is designed to be responsive and adaptive, ensuring a user-friendly experience on various devices, including desktops, tablets, and smartphones.
 
+### Installation
+
+Provide step-by-step instructions on how to install your project.
+
+1. Install dependencies:**
+```bash
+npm install --force
+```
+
+2. Run the app:**
+    ```bash
+    npm start
+    ```
